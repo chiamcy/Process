@@ -1,8 +1,8 @@
 # Process
-This repository is for Agile Assignment purpose
-Member Name:
-Cho Jun Meng
-Seng Jien Jin
-Chong Man Kiet
-Chiam Chyi Yang
-Tan Day Aun
+This repository is for Agile Assignment purpose \n
+Member Name:\n
+Cho Jun Meng \n
+Seng Jien Jin \n
+Chong Man Kiet \n
+Chiam Chyi Yang \n
+Tan Day Aun \n
